@@ -31,4 +31,4 @@ This document describes how to configure the  IPQualityScore Enrichment App prov
 Accurately verify phone numbers worldwide and retrieve a combination of carrier and line type details with risk analysis data to assess phone numbers reputation. Our system collects phone validation and verification data from a wide variety of carriers, with support for all regions. Detect inactive and disconnected phone numbers for easy user validation similar to HLR & LRN lookups. The "active_status" will identify if the line is active, the phone is turned off, or if the subscriber is absent or disconnected. Customizable settings allow scoring to be tailored to your audience.
 
 ## Support and documentation: 
-For all the support requests and general queries you can contact support@hyas.com or visit [contact-us](https://www.hyas.com/contact)
+For all the support requests and general queries you can contact Support@IPQualityScore.com or visit [contact-us](https://www.ipqualityscore.com/contact-us)
