@@ -11,16 +11,16 @@ You will need the following to proceed:
 ## Supported Operations
 The connector supports the following operations:
 * `Retrieve IP address reputation data`: service performs real-time lookups to instantly determine how risky a user, click, or transaction is based on an IP address and optional device information. In addition to analysing if the IP address is a proxy or VPN, the API returns over 20 relevant data points such as: 
-** Geo location data
-* ISP
-* Connection type
-* Device details
-* Recent reputation activity
-* Overall fraud score
-* Status as a proxy
-* VPN
-* Tor connection 
-* Other similar data points to classify reputation and risk
+  *Geo location data
+  * ISP
+  * Connection type
+  * Device details
+  * Recent reputation activity
+  * Overall fraud score
+  * Status as a proxy
+  * VPN
+  * Tor connection 
+  * Other similar data points to classify reputation and risk
 
 * `Retrieve Email address reputation data`: API provides real-time email address reputation scoring and validation with hundreds of syntax & DNS checks. The API can be leveraged to determine if the email address exists with the mail service provider and is able to accept new messages. In addition, users are also able to determine if the email address has a poor reputation and associated with any current threats. Lastly, users are able to detect disposable or temporary mail services as well as emails with a history of fraudulent behaviour online.
 
