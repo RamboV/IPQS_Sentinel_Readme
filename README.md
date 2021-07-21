@@ -11,18 +11,19 @@ You will need the following to proceed:
 ## Supported Operations
 The connector supports the following operations:
 * `Retrieve IP address reputation data`: service performs real-time lookups to instantly determine how risky a user, click, or transaction is based on an IP address and optional device information. In addition to analysing if the IP address is a proxy or VPN, the API returns over 20 relevant data points such as: 
-•	Geo location data
-•	ISP
-•	Connection type
-•	Device details
-•	Recent reputation activity
-•	Overall fraud score
-•	Status as a proxy
-•	VPN
-•	Tor connection 
-•	Other similar data points to classify reputation and risk
+* Geo location data
+* ISP
+* Connection type
+* Device details
+* Recent reputation activity
+* Overall fraud score
+* Status as a proxy
+* VPN
+* Tor connection 
+* Other similar data points to classify reputation and risk
 
 * `Retrieve Email address reputation data`: API provides real-time email address reputation scoring and validation with hundreds of syntax & DNS checks. The API can be leveraged to determine if the email address exists with the mail service provider and is able to accept new messages. In addition, users are also able to determine if the email address has a poor reputation and associated with any current threats. Lastly, users are able to detect disposable or temporary mail services as well as emails with a history of fraudulent behaviour online.
+
 * `Retrieve URL (or) Domain reputation data.`: scans links and domains in real-time to detect suspicious URLs using trusted machine learning models. These machine learning models can accurately identify phishing links, malware URLs, viruses, parked domains, and suspicious URLs with real-time risk scores. In addition, the machine learning models can confidently classify poor reputation domains, suspicious links, and phishing URLs with a real-time API integration.
 Features such as parking domain detection, domain spam scores, reputation checks, and domain age, elevates URL intelligence to a whole new level.
 This document describes how to configure the  IPQualityScore Enrichment App provided by IPQualityScore in the ThreatConnect Platform. The IPQualityScore Enrichment Playbook App enables ThreatConnect Platform users to perform On-Demand Enrichment of IP Address Reputation, Email Address Reputation, Domain and URL Reputation using the IPQualityScore Enrichment source.
