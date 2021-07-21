@@ -11,7 +11,8 @@ You will need the following to proceed:
 ## Supported Operations
 The connector supports the following operations:
 * `Retrieve IP address reputation data`: service performs real-time lookups to instantly determine how risky a user, click, or transaction is based on an IP address and optional device information. In addition to analysing if the IP address is a proxy or VPN, the API returns over 20 relevant data points such as: 
-  *Geo location data
+
+  * Geo location data
   * ISP
   * Connection type
   * Device details
