@@ -6,7 +6,7 @@ IPQualityScore (IPQS) provides enterprise grade fraud prevention, risk analysis,
 You will need the following to proceed:
 * A Microsoft Power Apps or Power Automate plan with custom connector feature
 * An Azure subscription
-* IPQualityScore Insight API Key
+* IPQualityScore API Key
 
 ## Supported Operations
 The connector supports the following operations:
