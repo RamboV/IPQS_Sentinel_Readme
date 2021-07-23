@@ -34,4 +34,3 @@ Register for a free API key at [IPQualityScore.com](https://www.ipqualityscore.c
 
 ## Support and documentation: 
 For all the support requests and general queries you can contact Support@IPQualityScore.com or [contact us](https://www.ipqualityscore.com/contact-us)
-{"mode":"full","isActive":false}
